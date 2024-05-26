@@ -1,0 +1,29 @@
+body{
+	background-color: MediumSlateBlue;
+}
+.p2{
+	font-size: 50px;
+	  font-family: "Rubik Spray Paint", system-ui;
+	  text-align: center;
+	  color: Tomato;
+}
+ul,ol{
+	font-size: 36px;
+	color: Maroon;
+}
+.l1 li::marker{
+	color: OrangeRed;
+	font-size: 1.1em;
+}
+.l2 li{
+	padding-left: 18px;
+}
+ol{
+	margin-left: 50px;
+}
+.p1{
+	font-size: 36px;
+	color: Maroon;
+	margin-left: 50px;
+}
+

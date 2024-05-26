@@ -1,0 +1,67 @@
+body{
+	background-color: pink;
+}
+p{
+	font-size: 50px;
+	color: darkviolet;
+	background-color: violet;
+}
+.ex1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: oblique;
+}
+.ex2{
+	font-family: cursive;
+	font-weight: 700;
+}
+.ex3{  
+font-family: "Rubik Bubbles", system-ui;
+background-color: BlanchedAlmond;
+  color: green;
+}
+.ex4{
+font-family: "Pacifico", cursive;
+}
+.ex5{
+font-family: "Rubik Moonrocks", sans-serif;
+}
+.ex6{  
+font-family: "Rubik Broken Fax", system-ui;
+font-variant: small-caps;
+}
+.ex7{
+font-family: "Caveat", cursive;
+text-transform: uppercase;
+letter-spacing: 5px;
+}
+.ex8{
+font-family: "Bad Script", cursive;
+}
+.ex9{
+  font-family: "Rubik Marker Hatch", system-ui;
+    background-color: grey;
+  color: black;
+}
+.ex10{
+  font-family: "Rubik Wet Paint", system-ui;
+  background-color: black;
+  color: red;
+}
+.ex11{
+	text-shadow: 0 0 10px darkviolet;
+}
+.ex12{
+	text-shadow: 4 4 darkviolet;
+}
+.ex13{
+	text-decoration: underline;
+	text-decoration-style: wavy;
+    text-underline-position: under;
+    text-decoration-color: hotpink;
+    height: 100px;
+}
+span{
+	font-size: 2em;
+	color: deeppink;
+	text-shadow: 0 0 10px darkviolet;
+}

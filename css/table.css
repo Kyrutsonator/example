@@ -1,0 +1,28 @@
+body{
+	background-color: SpringGreen;
+}
+p{
+	color: DodgerBlue;
+	font-size: 50px;
+	text-align: center;
+}
+table{
+	border: double 5px SlateBlue;
+	color: DodgerBlue;
+	font-size: 24px;
+	width: 50%;
+	margin: 20px;
+}
+th,td{
+	border: solid 2px HotPink;
+	width: 25%;
+	text-align: center;
+}
+tr:hover{
+	background-color: HotPink;
+}
+td:hover{
+	background-image: url(https://i.gifer.com/IYNL.gif);
+    font-weight: 700;
+    text-transform: uppercase;
+}
